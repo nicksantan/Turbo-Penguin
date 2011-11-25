@@ -1,0 +1,13 @@
+settings =
+{
+        iphone =
+        {
+                plist =
+                {
+                        UIAppFonts = 
+                        {
+                                "ARCADECLASSIC.TTF"
+                        }
+                },
+        },
+}
